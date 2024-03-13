@@ -1,5 +1,8 @@
 # alura-tracker
 
+## Experimente o projeto:
+https://alura-tracker-peach-xi.vercel.app/ 
+
 ## Project setup
 ```
 npm install
